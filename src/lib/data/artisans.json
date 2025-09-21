@@ -45,6 +45,13 @@
       "email": "break@gmail.com",
       "password": "$2a$10$dQGjcQxY5IEKXvSEUfC0ROuZSkkv.Jm.F8DZLu8/UjfeQExsmKkb6",
       "role": "artisan"
+    },
+    {
+      "id": "art-1758450929862",
+      "name": "gulab",
+      "email": "gulab@gmail.com",
+      "password": "$2a$10$w.BBkKwe7IO7VkIvNsa3J.0nBYeh2QcpmqOk0M8BaT2mTgl2m4AEy",
+      "role": "artisan"
     }
   ]
 }
