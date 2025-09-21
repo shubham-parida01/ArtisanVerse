@@ -1,0 +1,50 @@
+{
+  "artisans": [
+    {
+      "id": "art-1",
+      "name": "Elena Vance",
+      "email": "artisan@example.com",
+      "password": "$2a$10$8.Id7yV..W17QjAP1Pgv4ey.617ZxxBofHxpOgzNAX2qXbKqkH2xS",
+      "role": "artisan"
+    },
+    {
+      "id": "art-2",
+      "name": "Samuel Jones",
+      "email": "samuel.jones@example.com",
+      "password": "$2a$10$8.Id7yV..W17QjAP1Pgv4ey.617ZxxBofHxpOgzNAX2qXbKqkH2xS",
+      "role": "artisan"
+    },
+    {
+      "id": "art-3",
+      "name": "Aisha Begum",
+      "email": "aisha.begum@example.com",
+      "password": "$2a$10$8.Id7yV..W17QjAP1Pgv4ey.617ZxxBofHxpOgzNAX2qXbKqkH2xS",
+      "role": "artisan"
+    },
+    {
+      "id": "art-4",
+      "name": "Marco Diaz",
+      "email": "marco.diaz@example.com",
+      "password": "$2a$10$8.Id7yV..W17QjAP1Pgv4ey.617ZxxBofHxpOgzNAX2qXbKqkH2xS",
+      "role": "artisan"
+    },
+    {
+      "id": "art-1758280547422",
+      "name": "ayushshoes",
+      "email": "ayushshoes@gmail.com",
+      "password": "$2a$10$zgHcvIoN5qcstzY2O1IbiuMmHyZzGxmgqebbmrI1tzqXILFjgOVPK",
+      "role": "artisan",
+      "craft": "Shoes",
+      "region": "agra, India",
+      "style": "Leather and Wooden",
+      "bio": "From the heart of Agra, India, a city steeped in artisanal heritage, emerges ayushshoes, a master of footwear whose dedication is as enduring as his craft. A hardworking cobbler by nature and trade, ayushshoes has honed his skills over years, transforming raw materials into exquisite pieces of functional art. His unique vision marries the timeless elegance of leather with the earthy robustness of wood, creating shoes that are not merely accessories but a testament to his meticulous artistry. Each pair crafted by ayushshoes tells a story of tradition, innovation, and an unwavering commitment to quality, reflecting the soul of a true artisan."
+    },
+    {
+      "id": "art-1758398167859",
+      "name": "break",
+      "email": "break@gmail.com",
+      "password": "$2a$10$dQGjcQxY5IEKXvSEUfC0ROuZSkkv.Jm.F8DZLu8/UjfeQExsmKkb6",
+      "role": "artisan"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "user-1",
+    "name": "Sarah Johnson",
+    "email": "customer@example.com",
+    "password": "$2a$10$8.Id7yV..W17QjAP1Pgv4ey.617ZxxBofHxpOgzNAX2qXbKqkH2xS",
+    "role": "customer"
+  },
+  {
+    "id": "user-1758264303031",
+    "name": "dayan",
+    "email": "dayan@gmail.com",
+    "password": "$2a$10$nEqo7Kg5P73gTHsO1bVKhOssU2.nvGzQ71.diUsvGUGhXg3blUmbq",
+    "role": "customer"
+  }
+]
